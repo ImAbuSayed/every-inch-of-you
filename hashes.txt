@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Every Inch Of You
+
+This log tracks the cryptographic history and versioning for the song **Every Inch Of You** (every-inch-of-you).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-03T04:46:12.074288 | `v1` | `35dfc1a576b5a1ab2a0ddb013710e1151d9c6f779f05f896fb49fffe2bf0e512` | `50682a68603cc6e672fd305add82fdbd8b75cfbf945665aaec34cb1ca95c3d3c` | `2026-06-03_every-inch-of-you-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

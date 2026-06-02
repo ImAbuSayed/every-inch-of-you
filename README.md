@@ -15,7 +15,7 @@
 | **Written On** | June 02, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/every-inch-of-you/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Every Inch Of You](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/every-inch-of-you/) |
+| **Get License** | [Official Music Licensing for Every Inch Of You](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/every-inch-of-you/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `35dfc1a576b5a1ab2a0ddb013710e1151d9c6f779f05f896fb49fffe2bf0e512` |
 | **Timestamp** | June 03, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
